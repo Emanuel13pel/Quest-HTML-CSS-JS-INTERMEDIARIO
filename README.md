@@ -14,4 +14,6 @@ imagem em anexo na aula.
 
 -----------------------------------------------------
 
-<img src="../image/animação.gif">
+## Demonstração da Quest Concluída.
+
+<img src="src/image/Animação.gif">
